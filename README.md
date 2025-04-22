@@ -23,7 +23,7 @@ This project is a scalable RESTful API built with Node.js, Express.js, and Mongo
 ## Installation
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Abdelrahmans123/BlogAPI.git
 ```
 2. Install dependencies
 ```bash
@@ -39,7 +39,7 @@ CLOUDINARY_CLOUD_NAME=<your-cloud-name>
 CLOUDINARY_API_KEY=<your-api-key>
 CLOUDINARY_API_SECRET=<your-api-secret>
 ```
-5. Run the application
+4. Run the application
    ```bash
      npm run start
    ```

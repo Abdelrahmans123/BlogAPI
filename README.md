@@ -39,11 +39,11 @@ CLOUDINARY_CLOUD_NAME=<your-cloud-name>
 CLOUDINARY_API_KEY=<your-api-key>
 CLOUDINARY_API_SECRET=<your-api-secret>
 ```
-4. Run the application
-   ```bash
-     npm run start
-   ```
-5. Access API at:
+4. Run the server
+```bash
+npm run start
+```
+5. Access API at
 ```bash
 http://localhost:5000/api
 ```

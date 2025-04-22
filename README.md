@@ -39,9 +39,9 @@ CLOUDINARY_CLOUD_NAME=<your-cloud-name>
 CLOUDINARY_API_KEY=<your-api-key>
 CLOUDINARY_API_SECRET=<your-api-secret>
 ```
-4. Run the application
+5. Run the application
    ```bash
-   npm run start
+     npm run start
    ```
 5. Access API at:
 ```bash
